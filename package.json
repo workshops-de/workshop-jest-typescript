@@ -1,0 +1,23 @@
+{
+  "name": "workshops.de-jest",
+  "version": "1.0.0",
+  "description": "Workshop repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workshops-de/workshop-jest-typescript.git"
+  },
+  "keywords": [
+    "jest",
+    "typescript"
+  ],
+  "author": "Gregor Woiwode <gregor.woiwode@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workshops-de/workshop-jest-typescript/issues"
+  },
+  "homepage": "https://github.com/workshops-de/workshop-jest-typescript#readme"
+}
