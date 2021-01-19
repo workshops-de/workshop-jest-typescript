@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot When the application starts displays the current version 1`] = `"<header>Version 1.1</header>"`;
